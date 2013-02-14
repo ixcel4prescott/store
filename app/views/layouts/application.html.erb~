@@ -53,17 +53,9 @@
   
 <div class="container">
     <div class="row">
-      <div class="span9"><%= yield %></div>
-      <div class="span3">
-        <h2>About Us</h2>
-          We are a store that specializes in home based products. Our location is in Prescott Arizona
-          We invite you to visit us in Prescott at: 704 North Valley View Drive, Prescott, Arizona. 
-          Our website is: <a href="http://www.ixcel.com"><br/><br/>I-X-CEL Consulting Services, Inc</a>
-      </div>
+      <div class="span12"><%= yield %></div>
     </div>
   </div>
-
-
 
 <div id="wrapper">
 

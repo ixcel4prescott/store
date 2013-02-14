@@ -25,6 +25,7 @@ group :assets do
  end
 
 gem 'jquery-rails'
+gem 'paperclip'
 gem 'less'
 gem "less-rails"
 gem 'twitter-bootstrap-rails'
